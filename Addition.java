@@ -15,8 +15,6 @@ public class Addition {
 
      System.out.println("branch1");
 
-     System.out.println("master");
-
 
   }
 
