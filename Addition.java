@@ -7,7 +7,7 @@ public class Addition {
   public static void main(String args[])
   {
         int c = a+b;
-     System.out.println("Addition :"+c);
+     System.out.println("Addition of a and b:"+c);
   }
 
  }
