@@ -11,6 +11,7 @@ public class Addition {
 
        c = b-a;
      System.out.println("Substraction :"+c);
+     Syetem.out.println("Conflict");
 
   }
 
