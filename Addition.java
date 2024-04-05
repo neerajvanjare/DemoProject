@@ -14,9 +14,7 @@ public class Addition {
 
 System.out.println("Multiplication of a and b:"+c);
 
-     c = a-b;
-  System.out.println("Substraction of a and b:"+c);
-
+System.out.println("new line");
 
   }
 
