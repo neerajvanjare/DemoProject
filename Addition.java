@@ -16,6 +16,8 @@ System.out.println("Multiplication of a and b:"+c);
 
 System.out.println("new line");
 
+//stash-2
+
   }
 
  }
